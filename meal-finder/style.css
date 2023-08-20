@@ -162,4 +162,7 @@ input[type="text"]:focus {
     width: 300px;
     height: 300px;
   }
+  .single-meal {
+    width: 80%;
+  }
 }
