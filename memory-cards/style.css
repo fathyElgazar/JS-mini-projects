@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,500,700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  position: relative;
+}
+
+h1 .btn {
+  position: absolute;
+  right: 0;
+  transform: translate(120%, -50%);
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px 15px;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn-small {
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+.btn-ghost {
+  border: 0;
+  background-color: transparent;
+}
+
+.clear {
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+}
+
+.cards {
+  perspective: 1000px;
+  position: relative;
+  height: 300px;
+  width: 500px;
+  max-width: 100%;
+}
+
+.card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 1.5em;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transform: translateX(50%) rotateY(-10deg);
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.card.active {
+  cursor: pointer;
+  opacity: 1;
+  z-index: 10;
+  transform: translateX(0) rotateY(0deg);
+}
+
+.card.left {
+  transform: translateX(-50%) rotateY(10deg);
+}
+
+.card.show-answer .inner-card {
+  transform: rotateX(180deg);
+}
+
+.inner-card {
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.4s ease;
+}
+
+.inner-card-front,
+.inner-card-back {
+  backface-visibility: hidden;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
+
+.inner-card-front {
+  transform: rotateX(0);
+  z-index: 2;
+}
+
+.inner-card-back {
+  transform: rotateX(180deg);
+}
+
+.inner-card-front::after,
+.inner-card-back::after {
+  content: "\f021  Flip";
+  font-family: "Font Awesome 5 free", "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #ddd;
+}
+
+.navigation {
+  display: flex;
+  margin: 20px 0;
+}
+
+.navigation .nav-button {
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  font-size: 16px;
+}
+
+.navigation p {
+  margin: 0 25px;
+}
+
+.add-container {
+  opacity: 0;
+  z-index: -1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  border: 1px solid #eee;
+  padding: 10px 0;
+  transition: 0.3s ease;
+}
+
+.add-container.show {
+  opacity: 1;
+  z-index: 2;
+}
+
+.add-container h3 {
+  margin: 10px 0;
+}
+
+.form-group label {
+  display: block;
+  margin: 20px 0 10px;
+}
+
+.form-group textarea {
+  min-width: 500px;
+  max-width: 100%;
+  font-size: 16px;
+  padding: 12px;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+}
