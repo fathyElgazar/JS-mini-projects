@@ -2,7 +2,7 @@
 
 Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API
 
-- [👉live demo👈](https://fathyElgazar.github.io/JS-mini-projects/breakout-game)
+- [👉live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/breakout-game)
 
 ## Project Specifications
 

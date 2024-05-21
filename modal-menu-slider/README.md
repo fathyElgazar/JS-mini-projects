@@ -2,7 +2,7 @@
 
 Simple landing page with sliding menu and modal
 
-- [👉Live demo👈](https://fathyelgazar.github.io/JS-mini-projects/modal-menu-slider)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/modal-menu-slider)
 
 ## Project Specifications
 

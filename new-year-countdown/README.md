@@ -2,7 +2,7 @@
 
 Landing page that counts down from the current date to the next new year
 
-- [👉Live demo👈](https://fathyElgazar.github.io/JS-mini-projects/new-year-countdown)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/new-year-countdown)
 
 ## Project Specifications
 

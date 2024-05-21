@@ -2,4 +2,4 @@
 
 rolling dice game
 
-- [👉live demo👈](https://fathyelgazar.github.io/JS-mini-projects/Pig-Game/)
+- [👉live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/Pig-Game/)

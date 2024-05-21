@@ -2,7 +2,7 @@
 
 Project to teach high order array methods and DOM manipulation
 
-- [👉Live demo👈](https://fathyelgazar.github.io/JS-mini-projects/dom-array-methods/)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/dom-array-methods/)
 
 ## Project Specifications
 

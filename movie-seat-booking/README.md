@@ -2,7 +2,7 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
-- [👉Live demo👈](https://fathyelgazar.github.io/JS-mini-projects/movie-seat-booking/)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/movie-seat-booking/)
 
 ## Project Specifications
 

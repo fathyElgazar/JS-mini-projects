@@ -2,7 +2,7 @@
 
 Select countries to get the exchange rate for a specific amount
 
-- [👉Live demo👈](https://fathyelgazar.github.io/JS-mini-projects/exchange-rate/)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/exchange-rate/)
 
 ## Project Specifications
 

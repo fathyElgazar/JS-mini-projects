@@ -2,7 +2,7 @@
 
 Simple client side form validation. Check requird, length, email and password match
 
-- [👉Live demo👈](https://fathyelgazar.github.io/JS-mini-projects/Form-Validator/)
+- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/Form-Validator/)
 
 ## Project Specifications
 
