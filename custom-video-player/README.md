@@ -2,7 +2,7 @@
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/custom-video-player/)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/custom-video-player/)
 
 ## Project Specifications
 

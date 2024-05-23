@@ -2,4 +2,4 @@
 
 Map your workouts
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/Mapty/)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/Mapty/)

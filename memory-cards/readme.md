@@ -2,7 +2,7 @@
 
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/memory-cards)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/memory-cards)
 
 ## Project Specifications
 

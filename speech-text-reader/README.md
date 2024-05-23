@@ -2,7 +2,7 @@
 
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/speech-text-reader)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/speech-text-reader)
 
 ## Project Specifications
 

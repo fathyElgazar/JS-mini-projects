@@ -2,7 +2,7 @@
 
 Keep track of income and expenses. Add and remove items and save to local storage
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/expense-tracker)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/expense-tracker)
 
 ## Project Specifications
 

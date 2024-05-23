@@ -2,7 +2,7 @@
 
 Select a letter to figure out a hidden word in a set amount of chances
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/hangman)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/hangman)
 
 ## Project Specifications
 

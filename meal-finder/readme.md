@@ -2,7 +2,7 @@
 
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/meal-finder/)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/meal-finder/)
 
 ## Project Specifications
 

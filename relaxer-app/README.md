@@ -2,7 +2,7 @@
 
 A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
 
-- [👉Live demo👈](https://fathyElgazzar.github.io/JS-mini-projects/relaxer-app)
+- [👉Live demo👈](https://gazzaar.github.io/JS-mini-projects/relaxer-app)
 
 ## Project Specifications
 
